@@ -1,6 +1,6 @@
 # Insertion-Sort-Project
 
-##Question - 1
+## Question - 1
 
  * [*22*, 27, 16, **2**, 18, 6]    ***n***
             
@@ -11,11 +11,11 @@
    [2, 6, 16, 18, 22, 27]          ***1***
    
   
-* n + (n-1)+ .....+1 = [n(n-1)]/2 => O (n^2)
+* n + (n-1)+ .....+1 = [n(n-1)]/2 => **O (n^2)**
 
 * 18 sayısı average case kapsamına girmektedir.
 
-##Question - 2
+## Question - 2
 
 * [*7*, 3, 5, 8, **2**, 9, 4, 15, 6]
 
